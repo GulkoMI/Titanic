@@ -21,7 +21,7 @@ pip install scikit-learn
 ```
 ## ℹ️Ознакомительная информация 
 
-Все этапы решения проекта подробно описаны и проккоментированы в файле [Titanic](Titanic.ipynb)
+Поэтапное решения проекта подробно описано и проккоментировано в файле [Titanic](Titanic.ipynb)
 ### Использованные модели классификации: 
 - Logistic regression
 - Logistic regression with RFECV
